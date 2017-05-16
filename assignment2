@@ -1,0 +1,45 @@
+//Write a program to print the details of different types of buildings using inheritance
+
+
+class building{
+
+    private building residentialbuilding;
+
+    public void addbuilding(building newbuilding) {
+        // no implementation yet
+    }
+
+    public building releasedate(int sipSize) {
+        // no implementation yet
+        // (need a return so it will compile)
+        return null;
+    }
+
+    public building newcommercialbuilding() {
+        // no implementation yet
+        // (need a return so it will compile)
+        return null;
+    }
+}
+
+// In Source Packet in file inherit/ex1/Coffee.java
+public class Coffee {
+
+    private int mlbuilding;
+
+    public void add(int amount) {
+        // No implementation yet
+    }
+
+    public int remove(int amount) {
+        // No implementation yet
+        // (return 0 so it will compile)
+        return 0;
+    }
+
+    public int removeAll() {
+        // No implementation yet
+        // (return 0 so it will compile)
+        return 0;
+    }
+}
