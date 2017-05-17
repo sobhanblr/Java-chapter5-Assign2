@@ -2,9 +2,7 @@
 
 
 class building{
-
     private building residentialbuilding;
-
     public void addbuilding(building newbuilding) {
         // no implementation yet
     }
@@ -26,7 +24,6 @@ class building{
 public class Coffee {
 
     private int mlbuilding;
-
     public void add(int amount) {
         // No implementation yet
     }
